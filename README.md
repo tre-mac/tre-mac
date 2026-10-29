@@ -5,9 +5,9 @@
 **Information Technology student and DevSecOps intern.** 🚀
 
 <!-- TODO: replace YOUR-GITHUB-USERNAME and YOUR-LINKEDIN-URL below with your real links -->
-- **GitHub:** [github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)  
+- **GitHub:** [github.com/YOUR-GITHUB-USERNAME](github.com/tre-mac)  
   ![GitHub followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=social)
-- **LinkedIn:** [LinkedIn](YOUR-LINKEDIN-URL)  
+- **LinkedIn:** [LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/tremell-mcalpine/))  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
 - **Email:** [tremell2mcalpine@gmail.com](mailto:tremell2mcalpine@gmail.com)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tremell2mcalpine@gmail.com)

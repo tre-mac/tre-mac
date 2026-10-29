@@ -31,13 +31,13 @@ DevSecOps intern with hands-on experience in CI/CD automation, Django configurat
   Bachelor of Science, Information Technology | Concentration: Cloud Computing | Expected May 2027  
   *Relevant Courses:* Networking & Data Communications, Cloud Foundations, Cloud Management Services, Systems Analysis and Design, Java OOP
 
-## 🏆 Certifications
+## 📄 Certifications
 
 - ![AZ-900](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Fundamentals%20(AZ--900)-0078D4?style=flat-square) Microsoft Certified: Azure Fundamentals (AZ-900)
 - ![AWS CCP](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=flat-square) AWS Certified Cloud Practitioner
 - ![AWS AIP](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=flat-square) AWS Certified AI Practitioner
 
-## 🛠️ Skills
+## 🕹️ Skills
 
 **Programming**
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -61,7 +61,7 @@ DevSecOps intern with hands-on experience in CI/CD automation, Django configurat
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 - ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-## 📂 Projects
+## 🤖 Projects
 
 <!-- TODO: replace tre-mac/YOUR-REPO-NAME with the AI Security Monitor repo, or delete the link + badges if it isn't public -->
 - **AI Security Monitor** [GitHub](https://github.com/tre-mac/YOUR-REPO-NAME) 🛡️  

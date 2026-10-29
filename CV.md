@@ -140,6 +140,16 @@ Event-driven cloud security monitoring solution that automatically analyzes AWS 
 
 ---
 
+## Workshops
+
+- Hackathon '24
+  - Built a website used for tracking crime and suspicious behavior on a school campus
+- GMU x AWS AI& AI Security Workshop (2026)
+- PatriotHacks; Bitlab (2026)
+  - Building a mood-based song recommender: the app finds songs for the user based on the mood they're in
+
+---
+
 ## Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)

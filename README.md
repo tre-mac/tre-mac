@@ -11,7 +11,7 @@
 - **Email:** [tremell2mcalpine@gmail.com](mailto:tremell2mcalpine@gmail.com)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tremell2mcalpine@gmail.com)
 
-## 👤 Professional Summary
+## 📝 Professional Summary
 
 DevSecOps intern with hands-on experience in CI/CD automation, Django configuration management, deployment tracking, and AWS monitoring. I help keep company software available by monitoring and troubleshooting Docker environments and owning the QA promotion gate. Seeking an entry-level DevSecOps or cloud role. 🔒
 

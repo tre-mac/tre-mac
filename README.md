@@ -4,17 +4,16 @@
 
 **Information Technology student and DevSecOps intern.** 🚀
 
-<!-- TODO: replace YOUR-GITHUB-USERNAME and YOUR-LINKEDIN-URL below with your real links -->
-- **GitHub:** [github.com/YOUR-GITHUB-USERNAME](github.com/tre-mac)  
-  ![GitHub followers](https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?style=social)
-- **LinkedIn:** [LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/tremell-mcalpine/))  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL)
+- **GitHub:** [github.com/tre-mac](https://github.com/tre-mac)  
+  ![GitHub followers](https://img.shields.io/github/followers/tre-mac?style=social)
+- **LinkedIn:** [linkedin.com/in/tremell-mcalpine](https://www.linkedin.com/in/tremell-mcalpine/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tremell-mcalpine/)
 - **Email:** [tremell2mcalpine@gmail.com](mailto:tremell2mcalpine@gmail.com)  
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tremell2mcalpine@gmail.com)
 
 ## 👤 Professional Summary
 
-Information Technology student and DevSecOps intern with hands-on experience in CI/CD automation, Django configuration management, and AWS monitoring. AWS and Azure certified, seeking an entry-level DevSecOps or cloud role. 🔒
+DevSecOps intern and Information Technology student with hands-on experience in CI/CD automation, Django configuration management, deployment tracking, and AWS monitoring. I help keep company software available by monitoring and troubleshooting Docker environments and owning the QA promotion gate. AWS and Azure certified, seeking an entry-level DevSecOps or cloud role. 🔒
 
 ## 💼 Work Experience
 
@@ -64,8 +63,8 @@ Information Technology student and DevSecOps intern with hands-on experience in 
 
 ## 📂 Projects
 
-<!-- TODO: replace YOUR-GITHUB-USERNAME/YOUR-REPO-NAME with the AI Security Monitor repo, or delete the link + badges if it isn't public -->
-- **AI Security Monitor** [GitHub](https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME) 🛡️  
+<!-- TODO: replace tre-mac/YOUR-REPO-NAME with the AI Security Monitor repo, or delete the link + badges if it isn't public -->
+- **AI Security Monitor** [GitHub](https://github.com/tre-mac/YOUR-REPO-NAME) 🛡️  
   Event-driven cloud security monitoring solution that automatically analyzes AWS account activity using AWS CloudTrail logs.  
   *Technologies:* AWS CloudTrail, Amazon S3, AWS Lambda, Python, Amazon Bedrock, Amazon DynamoDB, Amazon SNS.  
   *Key Features:*
@@ -74,7 +73,7 @@ Information Technology student and DevSecOps intern with hands-on experience in 
   - Security findings and AI-generated assessments stored in Amazon DynamoDB for historical tracking and investigation
   - Amazon SNS email notifications alert administrators when high-risk or critical security events are detected  
 
-  ![Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME?style=flat-square) ![Forks](https://img.shields.io/github/forks/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME?style=flat-square)
+  ![Stars](https://img.shields.io/github/stars/tre-mac/YOUR-REPO-NAME?style=flat-square) ![Forks](https://img.shields.io/github/forks/tre-mac/YOUR-REPO-NAME?style=flat-square)
 
 ---
 

@@ -73,7 +73,6 @@ DevSecOps intern with hands-on experience in CI/CD automation, Django configurat
   - Security findings and AI-generated assessments stored in Amazon DynamoDB for historical tracking and investigation
   - Amazon SNS email notifications alert administrators when high-risk or critical security events are detected  
 
-  ![Stars](https://img.shields.io/github/stars/tre-mac/YOUR-REPO-NAME?style=flat-square) ![Forks](https://img.shields.io/github/forks/tre-mac/YOUR-REPO-NAME?style=flat-square)
 
 ---
 

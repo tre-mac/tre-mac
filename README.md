@@ -13,7 +13,7 @@
 
 ## 👤 Professional Summary
 
-DevSecOps intern and Information Technology student with hands-on experience in CI/CD automation, Django configuration management, deployment tracking, and AWS monitoring. I help keep company software available by monitoring and troubleshooting Docker environments and owning the QA promotion gate. AWS and Azure certified, seeking an entry-level DevSecOps or cloud role. 🔒
+DevSecOps intern with hands-on experience in CI/CD automation, Django configuration management, deployment tracking, and AWS monitoring. I help keep company software available by monitoring and troubleshooting Docker environments and owning the QA promotion gate. Seeking an entry-level DevSecOps or cloud role. 🔒
 
 ## 💼 Work Experience
 
